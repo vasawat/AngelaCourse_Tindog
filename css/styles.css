@@ -1,0 +1,73 @@
+body {
+    font-family: "Sofia", sans-serif;
+}
+#navbar {
+    margin-bottom: 3rem;
+}
+#title {
+    background-color: #ff0149c9;
+    padding: 5% 20%;
+}
+#features {
+    background-color: white;
+    padding: 12rem 0;
+    position: relative;
+}
+#apple {
+    color: white;
+    background-color: rgb(46, 46, 46);
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+    font-weight: 600;
+}
+#playstore {
+    color: white;
+    background-color:  #ff0149c9;
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+    border-color: white;
+    font-weight: 600;
+}
+#playstore2 {
+    color: black;
+    background-color:  white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+    border-color: white;
+    font-weight: 600;
+}
+
+#testimonials {
+    background-color: rgb(255, 104, 90);
+    padding: 5rem 5rem 0 5rem;
+    position: relative;
+}
+#press {
+    background-color: rgb(255, 104, 90);
+    padding: 7rem 5rem;
+
+}
+#pricing {
+    padding: 5rem 10rem 10rem 10rem;
+}
+#signupw {
+    margin: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem 0;
+    background-color: white;
+}
+#signupb {
+    margin: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem 0;
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+#cta {
+    background-color:  #ff0149c9;
+    color: white;
+    padding: 7rem 0rem;
+}
+#footer {
+    padding: 5rem 0 2rem 0;
+}
